@@ -513,6 +513,7 @@
         <members>Jira_Obj__c.Jira_field__c</members>
         <members>Jira_Obj__c.userstory_DF__c</members>
         <members>July3__c.July3_field__c</members>
+        <members>July_Demo__c.Test1__c</members>
         <members>June_14_demo__c.Motorola_4_2_demo__c</members>
         <members>June_14_demo__c.Test1__c</members>
         <members>June_15__c.June_15_Field2__c</members>
@@ -826,6 +827,7 @@
         <members>Jeweller__c</members>
         <members>Jira_Obj__c</members>
         <members>July3__c</members>
+        <members>July_Demo__c</members>
         <members>June_14_demo__c</members>
         <members>June_15__c</members>
         <members>June_26_demo__c</members>
@@ -1001,6 +1003,7 @@
         <members>Jeweller__c-Jeweller Layout</members>
         <members>Jira_Obj__c-Jira Obj Layout</members>
         <members>July3__c-July3 Layout</members>
+        <members>July_Demo__c-July Demo Layout</members>
         <members>June_14_demo__c-June 14 demo Layout</members>
         <members>June_15__c-June 15 Layout</members>
         <members>June_26_demo__c-June 26 demo Layout</members>

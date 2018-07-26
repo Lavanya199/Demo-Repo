@@ -1337,6 +1337,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>July_Demo__c.Phone__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>July_Demo__c.Test1__c</field>
         <readable>true</readable>
     </fieldPermissions>

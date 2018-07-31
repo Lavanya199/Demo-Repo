@@ -1514,6 +1514,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Moodys__c.Test1__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>NVIDIA__c.AP1__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -2319,6 +2324,9 @@
         <layout>Mindbody__c-Mindbody Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>Moodys__c-Moodys Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>NVIDIA__c-NVIDIA Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -2958,6 +2966,15 @@
         <allowRead>true</allowRead>
         <modifyAllRecords>true</modifyAllRecords>
         <object>Mindbody__c</object>
+        <viewAllRecords>true</viewAllRecords>
+    </objectPermissions>
+    <objectPermissions>
+        <allowCreate>true</allowCreate>
+        <allowDelete>true</allowDelete>
+        <allowEdit>true</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>true</modifyAllRecords>
+        <object>Moodys__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <objectPermissions>

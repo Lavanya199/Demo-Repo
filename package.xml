@@ -482,6 +482,27 @@
         <members>Macro.Description</members>
         <members>Macro.Name</members>
         <members>Macro.OwnerId</members>
+        <members>May__c.Email_id__c</members>
+        <members>May__c.Status__c</members>
+        <members>Metric.OrigMetricId__c</members>
+        <members>Moodys__c.Test1__c</members>
+        <members>Move__c.Story1__c</members>
+        <members>NVIDIA__c.AP1__c</members>
+        <members>NVIDIA__c.Test1__c</members>
+        <members>Nielsen__c.Dec_4_text__c</members>
+        <members>Nov_Demo__c.Mathwork_field_A__c</members>
+        <members>Nov_Demo__c.Mathwork_field_B__c</members>
+        <members>Nov_test_2__c.Nov_picklist_field__c</members>
+        <members>Object_A__c.Field_A__c</members>
+        <members>Object_A__c.Field_B__c</members>
+        <members>Object_B__c.Obj_B_Picklist__c</members>
+        <members>Object_B__c.Obj_B_Text__c</members>
+        <members>October_Demo__c.Parsons_text__c</members>
+        <members>October_Demo__c.Riverbed_Picklist__c</members>
+        <members>October_Demo__c.Riverbed_text__c</members>
+        <members>October_Demo__c.Synapse_text__c</members>
+        <members>October_Demo__c.Test1__c</members>
+        <members>October_Demo__c.Test2__c</members>
         <members>Opportunity.AccountId</members>
         <members>Opportunity.Amount</members>
         <members>Opportunity.CampaignId</members>
@@ -688,6 +709,17 @@
         <members>Macro</members>
         <members>MacroAction</members>
         <members>MacroInstruction</members>
+        <members>May__c</members>
+        <members>Mindbody__c</members>
+        <members>Moodys__c</members>
+        <members>Move__c</members>
+        <members>NVIDIA__c</members>
+        <members>Nielsen__c</members>
+        <members>Nov_Demo__c</members>
+        <members>Nov_test_2__c</members>
+        <members>Object_A__c</members>
+        <members>Object_B__c</members>
+        <members>October_Demo__c</members>
         <members>Opportunity</members>
         <members>OpportunityCompetitor</members>
         <members>OpportunityContactRole</members>
@@ -806,6 +838,17 @@
         <members>Lead-Lead %28Support%29 Layout</members>
         <members>Lead-Lead Layout</members>
         <members>Macro-Macro Layout</members>
+        <members>May__c-May Layout</members>
+        <members>Mindbody__c-Mindbody Layout</members>
+        <members>Moodys__c-Moodys Layout</members>
+        <members>Move__c-Move Layout</members>
+        <members>NVIDIA__c-NVIDIA Layout</members>
+        <members>Nielsen__c-Nielsen Layout</members>
+        <members>Nov_Demo__c-Nov Demo Layout</members>
+        <members>Nov_test_2__c-Nov test 2 Layout</members>
+        <members>Object_A__c-Object A Layout</members>
+        <members>Object_B__c-Object B Layout</members>
+        <members>October_Demo__c-October Demo Layout</members>
         <members>Opportunity-Opportunity %28Marketing%29 Layout</members>
         <members>Opportunity-Opportunity %28Sales%29 Layout</members>
         <members>Opportunity-Opportunity %28Support%29 Layout</members>

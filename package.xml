@@ -560,6 +560,7 @@
         <members>May__c.Status__c</members>
         <members>Metric.OrigMetricId__c</members>
         <members>Moodys__c.Test1__c</members>
+        <members>Move__c.Story1__c</members>
         <members>NVIDIA__c.AP1__c</members>
         <members>NVIDIA__c.Test1__c</members>
         <members>Nielsen__c.Dec_4_text__c</members>
@@ -840,6 +841,7 @@
         <members>May__c</members>
         <members>Mindbody__c</members>
         <members>Moodys__c</members>
+        <members>Move__c</members>
         <members>NVIDIA__c</members>
         <members>Nielsen__c</members>
         <members>Nov_Demo__c</members>
@@ -1016,6 +1018,7 @@
         <members>May__c-May Layout</members>
         <members>Mindbody__c-Mindbody Layout</members>
         <members>Moodys__c-Moodys Layout</members>
+        <members>Move__c-Move Layout</members>
         <members>NVIDIA__c-NVIDIA Layout</members>
         <members>Nielsen__c-Nielsen Layout</members>
         <members>Nov_Demo__c-Nov Demo Layout</members>

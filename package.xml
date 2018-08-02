@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
-    <version>40.0</version>
+    <version>41.0</version>
     <types>
         <members>AccountCreation</members>
         <members>AccountCreationTest</members>
@@ -698,6 +698,7 @@
         <members>RegionsBank__c.RB_text__c</members>
         <members>RegionsBank__c.TFS_Demo__c</members>
         <members>RegionsBank__c.Test2__c</members>
+        <members>ResMed__c.Test1__c</members>
         <members>RiverBed__c.RB_Text1__c</members>
         <members>Sep_Demo__c.Digimarc_text__c</members>
         <members>Sep_Demo__c.Glassdoor__c</members>
@@ -862,6 +863,7 @@
         <members>PricebookEntry</members>
         <members>Product2</members>
         <members>RegionsBank__c</members>
+        <members>ResMed__c</members>
         <members>RiverBed__c</members>
         <members>Sep_Demo__c</members>
         <members>Site</members>
@@ -1039,6 +1041,7 @@
         <members>PricebookEntry-Price Book Entry Layout</members>
         <members>Product2-Product Layout</members>
         <members>RegionsBank__c-RegionsBank Layout</members>
+        <members>ResMed__c-ResMed Layout</members>
         <members>RiverBed__c-RiverBed Layout</members>
         <members>Scorecard-Scorecard Layout</members>
         <members>ScorecardAssociation-Scorecard Association Layout</members>

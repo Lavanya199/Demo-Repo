@@ -904,6 +904,7 @@
         <name>CustomObjectTranslation</name>
     </types>
     <types>
+        <members>CSI__c</members>
         <members>June_14_demo__c</members>
         <members>Position__c</members>
         <members>Test_Demo__c</members>
@@ -1079,6 +1080,7 @@
         <members>Activity.TodaysTasks</members>
         <members>Activity.UpcomingEvents</members>
         <members>Asset.AllAssets</members>
+        <members>CSI__c.All</members>
         <members>Campaign.AllActiveCampaigns</members>
         <members>Campaign.MyActiveCampaigns</members>
         <members>Case.AllClosedCases</members>

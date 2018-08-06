@@ -164,6 +164,7 @@
         <members>CI_Demo__c.Type__c</members>
         <members>CI_Job__c.Alm_tool__c</members>
         <members>CI_Job__c.CI_Job_field__c</members>
+        <members>CSI__c.Test1__c</members>
         <members>Caeser__c.Test987__c</members>
         <members>Campaign.ActualCost</members>
         <members>Campaign.AmountAllOpportunities</members>
@@ -780,6 +781,7 @@
         <members>CHG__c</members>
         <members>CI_Demo__c</members>
         <members>CI_Job__c</members>
+        <members>CSI__c</members>
         <members>Caeser__c</members>
         <members>Campaign</members>
         <members>CampaignMember</members>
@@ -957,6 +959,7 @@
         <members>CHG__c-CHG Layout</members>
         <members>CI_Demo__c-CI Demo Layout</members>
         <members>CI_Job__c-CI Job Layout</members>
+        <members>CSI__c-CSI Layout</members>
         <members>Caeser__c-Caeser Layout</members>
         <members>Campaign-Campaign Layout</members>
         <members>CampaignMember-Campaign Member Page Layout</members>

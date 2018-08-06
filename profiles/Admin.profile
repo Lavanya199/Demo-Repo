@@ -3255,6 +3255,10 @@
         <visible>false</visible>
     </recordTypeVisibilities>
     <tabVisibilities>
+        <tab>CSI__c</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
         <tab>June_14_demo__c</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>

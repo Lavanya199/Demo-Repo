@@ -504,6 +504,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>CSI__c.Area__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>CSI__c.Controlling_field__c</field>
         <readable>true</readable>
     </fieldPermissions>

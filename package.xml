@@ -160,6 +160,7 @@
         <members>Book__c.Price__c</members>
         <members>Brian__c.Brian_text__c</members>
         <members>Brian__c.Text2__c</members>
+        <members>Brillio__c.Test1__c</members>
         <members>CBN__c.CBN_picklist__c</members>
         <members>CHG__c.CHG_text__c</members>
         <members>CI_Demo__c.Type__c</members>
@@ -781,6 +782,7 @@
         <members>Bayers__c</members>
         <members>Book__c</members>
         <members>Brian__c</members>
+        <members>Brillio__c</members>
         <members>CBN__c</members>
         <members>CHG__c</members>
         <members>CI_Demo__c</members>
@@ -961,6 +963,7 @@
         <members>Bayers__c-Bayers Layout</members>
         <members>Book__c-Book Layout</members>
         <members>Brian__c-Brian Layout</members>
+        <members>Brillio__c-Brillio Layout</members>
         <members>CBN__c-CBN Layout</members>
         <members>CHG__c-CHG Layout</members>
         <members>CI_Demo__c-CI Demo Layout</members>

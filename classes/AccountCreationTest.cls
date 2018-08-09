@@ -1,7 +1,7 @@
 @isTest
 public class AccountCreationTest
 {
-  static testMethod void testInsertAccount() //testClass
+  static testMethod void testInsertAccount() //check the difference
   {
   
   //Move change1

@@ -442,6 +442,7 @@
         <members>Demo_Test_object__c.Picklist__c</members>
         <members>Demo_object__c.Demo_Picklist_field__c</members>
         <members>Demo_object__c.Industry__c</members>
+        <members>Dilligent__c.Test1__c</members>
         <members>DuplicateRecordItem.DuplicateRecordSetId</members>
         <members>DuplicateRecordItem.RecordId</members>
         <members>DuplicateRecordSet.DuplicateRuleId</members>
@@ -809,6 +810,7 @@
         <members>Demo_AR__c</members>
         <members>Demo_Test_object__c</members>
         <members>Demo_object__c</members>
+        <members>Dilligent__c</members>
         <members>DuplicateRecordItem</members>
         <members>DuplicateRecordSet</members>
         <members>EagleView__c</members>
@@ -993,6 +995,7 @@
         <members>Demo_AR__c-Demo AR Layout</members>
         <members>Demo_Test_object__c-Demo Test object Layout</members>
         <members>Demo_object__c-Demo object Layout</members>
+        <members>Dilligent__c-Dilligent Layout</members>
         <members>DuplicateRecordSet-Duplicate Record Set Layout</members>
         <members>EagleView__c-EagleView Layout</members>
         <members>EmailMessage-Email Message Layout</members>

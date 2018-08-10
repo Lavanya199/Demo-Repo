@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Package xmlns="http://soap.sforce.com/2006/04/metadata">
-    <version>43.0</version>
+<?xml version="1.0" encoding="UTF-8"?><Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
         <members>AccountCreation</members>
         <members>AccountCreationTest</members>
@@ -1306,6 +1304,7 @@
         <members>Demo2__c</members>
         <members>Demo3__c</members>
         <members>Demo_object__c</members>
+        <members>Dilligent__c</members>
         <members>Employee__c</members>
         <members>July3__c</members>
         <members>June_15__c</members>
@@ -1389,4 +1388,5 @@
         <members>Object_A__c.Workflow rule A</members>
         <name>WorkflowRule</name>
     </types>
+    <version>41.0</version>
 </Package>

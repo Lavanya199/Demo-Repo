@@ -82,6 +82,11 @@
     <custom>false</custom>
     <fieldPermissions>
         <editable>true</editable>
+        <field>ALM__c.Test1__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>AR_Genomic_obj__c.AR_Genomic_picklist__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -2171,6 +2176,9 @@
         <readable>true</readable>
     </fieldPermissions>
     <layoutAssignments>
+        <layout>ALM__c-ALM Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>AR_Genomic_obj__c-AR Genomic obj Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -2492,6 +2500,15 @@
     <layoutAssignments>
         <layout>Vehicle__c-Vehicle Layout</layout>
     </layoutAssignments>
+    <objectPermissions>
+        <allowCreate>true</allowCreate>
+        <allowDelete>true</allowDelete>
+        <allowEdit>true</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>true</modifyAllRecords>
+        <object>ALM__c</object>
+        <viewAllRecords>true</viewAllRecords>
+    </objectPermissions>
     <objectPermissions>
         <allowCreate>true</allowCreate>
         <allowDelete>true</allowDelete>

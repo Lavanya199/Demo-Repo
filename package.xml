@@ -64,6 +64,7 @@
         <name>CustomApplication</name>
     </types>
     <types>
+        <members>ALM__c.Test1__c</members>
         <members>AR_Genomic_obj__c.AR_Genomic_picklist__c</members>
         <members>AWS_Obj__c.AWS_picklist__c</members>
         <members>AWS_Obj__c.AWS_text__c</members>
@@ -765,6 +766,7 @@
         <name>CustomField</name>
     </types>
     <types>
+        <members>ALM__c</members>
         <members>AR_Genomic_obj__c</members>
         <members>AWS_Obj__c</members>
         <members>Abbvie_obj__c</members>
@@ -948,6 +950,7 @@
         <name>InstalledPackage</name>
     </types>
     <types>
+        <members>ALM__c-ALM Layout</members>
         <members>AR_Genomic_obj__c-AR Genomic obj Layout</members>
         <members>AWS_Obj__c-AWS Obj Layout</members>
         <members>Abbvie_obj__c-Abbvie obj Layout</members>

@@ -8,6 +8,7 @@
         <members>CreateAccountClassTest</members>
         <members>HelloWorldClassTest</members>
         <members>MyHelloWorld</members>
+        <members>Performance</members>
         <name>ApexClass</name>
     </types>
     <types>

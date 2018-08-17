@@ -12,7 +12,7 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>Test1__c</field>
+                <field>Voya_new_field__c</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns>

@@ -52,9 +52,9 @@
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
     <fields>
-        <fullName>Test1__c</fullName>
+        <fullName>Voya_new_field__c</fullName>
         <externalId>false</externalId>
-        <label>Test1</label>
+        <label>Voya new field</label>
         <length>250</length>
         <required>false</required>
         <trackTrending>false</trackTrending>

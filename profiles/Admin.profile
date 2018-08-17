@@ -1162,6 +1162,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Dilligent__c.Voya_new_field__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>EagleView__c.Text1__c</field>
         <readable>true</readable>
     </fieldPermissions>

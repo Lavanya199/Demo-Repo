@@ -443,6 +443,7 @@
         <members>Demo_Test_object__c.Picklist__c</members>
         <members>Demo_object__c.Demo_Picklist_field__c</members>
         <members>Demo_object__c.Industry__c</members>
+        <members>Dilligent__c.Voya_new_field__c</members>
         <members>DuplicateRecordItem.DuplicateRecordSetId</members>
         <members>DuplicateRecordItem.RecordId</members>
         <members>DuplicateRecordSet.DuplicateRuleId</members>

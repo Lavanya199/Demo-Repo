@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+dill<?xml version="1.0" encoding="UTF-8"?>
 <Profile xmlns="http://soap.sforce.com/2006/04/metadata">
     <applicationVisibilities>
         <application>Garage</application>
@@ -1154,11 +1154,6 @@
         <editable>false</editable>
         <field>Demo_object__c.Industry__c</field>
         <readable>false</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
-        <field>Dilligent__c.Test1__c</field>
-        <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>

@@ -4,8 +4,6 @@
     <types>
         <members>AccountCreation</members>
         <members>AccountCreationTest</members>
-        <members>Billing</members>
-        <members>BillingTest</members>
         <members>CreateAccountClass</members>
         <members>CreateAccountClassTest</members>
         <members>HelloWorldClassTest</members>

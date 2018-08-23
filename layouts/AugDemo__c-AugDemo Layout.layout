@@ -16,7 +16,7 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>Email__c</field>
+                <field>Status__c</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns>

@@ -148,6 +148,7 @@
         <members>AssetRelationship.RelationshipType</members>
         <members>AssetRelationship.ToDate</members>
         <members>AugDemo__c.Email__c</members>
+        <members>AugDemo__c.Status__c</members>
         <members>AugDemo__c.Test1__c</members>
         <members>August_Demo__c.Artisan_text__c</members>
         <members>August_Demo__c.Aug_29__c</members>
@@ -1234,6 +1235,7 @@
     </types>
     <types>
         <members>Account.Acc_Rec_type1</members>
+        <members>AugDemo__c.Aug_Record_type</members>
         <members>Idea.InternalIdeasIdeaRecordType</members>
         <members>Metric.Completion</members>
         <members>Metric.Progress</members>

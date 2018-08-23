@@ -81,6 +81,11 @@
                     <default>false</default>
                     <label>Close</label>
                 </value>
+                <value>
+                    <fullName>Inprogress</fullName>
+                    <default>false</default>
+                    <label>Inprogress</label>
+                </value>
             </valueSetDefinition>
         </valueSet>
     </fields>
@@ -108,6 +113,10 @@
             <picklist>Status__c</picklist>
             <values>
                 <fullName>Close</fullName>
+                <default>false</default>
+            </values>
+            <values>
+                <fullName>Inprogress</fullName>
                 <default>false</default>
             </values>
             <values>

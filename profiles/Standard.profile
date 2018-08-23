@@ -380,6 +380,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>AugDemo__c.Status__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>AugDemo__c.Test1__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -1622,6 +1627,10 @@
         <layout>AugDemo__c-AugDemo Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>AugDemo__c-AugDemo Layout</layout>
+        <recordType>AugDemo__c.Aug_Record_type</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>Book__c-Book Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -1921,6 +1930,11 @@
     <recordTypeVisibilities>
         <default>true</default>
         <recordType>Account.Acc_Rec_type1</recordType>
+        <visible>true</visible>
+    </recordTypeVisibilities>
+    <recordTypeVisibilities>
+        <default>true</default>
+        <recordType>AugDemo__c.Aug_Record_type</recordType>
         <visible>true</visible>
     </recordTypeVisibilities>
     <recordTypeVisibilities>

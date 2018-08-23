@@ -4,6 +4,8 @@
     <types>
         <members>AccountCreation</members>
         <members>AccountCreationTest</members>
+        <members>August</members>
+        <members>AugustTest</members>
         <members>CreateAccountClass</members>
         <members>CreateAccountClassTest</members>
         <members>HelloWorldClassTest</members>
@@ -145,6 +147,8 @@
         <members>AssetRelationship.RelatedAssetId</members>
         <members>AssetRelationship.RelationshipType</members>
         <members>AssetRelationship.ToDate</members>
+        <members>AugDemo__c.Email__c</members>
+        <members>AugDemo__c.Test1__c</members>
         <members>August_Demo__c.Artisan_text__c</members>
         <members>August_Demo__c.Aug_29__c</members>
         <members>August_Demo__c.Aug_Demo_Text_field__c</members>
@@ -779,6 +783,7 @@
         <members>Asset</members>
         <members>AssetRelationship</members>
         <members>AssistantProgress</members>
+        <members>AugDemo__c</members>
         <members>August_Demo__c</members>
         <members>AutoRABIT_Demo__c</members>
         <members>Bayers__c</members>
@@ -961,6 +966,7 @@
         <members>All_tests_Admin_profile__c-All tests Admin profile Layout</members>
         <members>Ashwin__c-Ashwin Layout</members>
         <members>Asset-Asset Layout</members>
+        <members>AugDemo__c-AugDemo Layout</members>
         <members>August_Demo__c-August Demo Layout</members>
         <members>AutoRABIT_Demo__c-AutoRABIT Demo Layout</members>
         <members>Bayers__c-Bayers Layout</members>

@@ -10,6 +10,8 @@
         <members>CreateAccountClassTest</members>
         <members>HelloWorldClassTest</members>
         <members>MyHelloWorld</members>
+        <members>Security</members>
+        <members>SecurityTest</members>
         <name>ApexClass</name>
     </types>
     <types>

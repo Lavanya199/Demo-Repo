@@ -3,7 +3,7 @@ public Class August
 public Account createAccount(String name) //Method to Create Account 
 {
 
-//Aug 17th
+//Normal test
 Account acc = new Account(); 
 acc.Name = name;
 system.debug('Test');

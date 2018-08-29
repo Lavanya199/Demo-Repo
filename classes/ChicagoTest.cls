@@ -1,11 +1,11 @@
 @isTest
-public class NewYorkTest
+public class ChicagoTest
 {
   static testMethod void testInsertAccount() //check the difference
   {
   
-  //Move change2 - chicago addition
-  NewYork ca = new NewYork();
+  //Move change2- change at 9:55pm
+  Chicago ca = new Chicago();
   ca.createAccount('TestAcc1');
   
   }

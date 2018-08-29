@@ -1,9 +1,9 @@
-public Class AccountCreation
+public Class Chicago
 {
 public Account createAccount(String name) //Method to Create Account 
 {
 
-//changed only this clss - chicago addition
+//changed only this clss - change at 9:55pm
 Account acc = new Account(); 
 acc.Name = name;
 system.debug('Test');

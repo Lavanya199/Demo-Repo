@@ -52,6 +52,57 @@
     <enableSearch>false</enableSearch>
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
+	    <fields>
+        <fullName>CMF1__c</fullName>
+        <description>testing</description>
+        <externalId>false</externalId>
+        <label>CMF1</label>
+        <length>10</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+	<fields>
+        <fullName>CMF3__c</fullName>
+        <externalId>false</externalId>
+        <label>CMF2</label>
+        <length>12</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>CMF2__c</fullName>
+        <externalId>false</externalId>
+        <label>CMF2</label>
+        <length>12</length>
+        <required>true</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+	<fields>
+        <fullName>CMF4__c</fullName>
+        <externalId>false</externalId>
+        <label>CMF2</label>
+        <length>12</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+	<fields>
+        <fullName>CMF5__c</fullName>
+        <externalId>false</externalId>
+        <label>CMF2</label>
+        <length>12</length>
+        <required>true</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
     <label>C1</label>
     <nameField>
         <label>C1 Name</label>

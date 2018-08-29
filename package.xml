@@ -8,6 +8,8 @@
         <members>AugustTest</members>
         <members>CaseRelated</members>
         <members>CaseRelatedTest</members>
+        <members>NewYork</members>
+        <members>NewYorkTest</members>
         <members>Performance</members>
         <members>PerformanceTest</members>
         <name>ApexClass</name>

@@ -62,16 +62,6 @@
         <type>Text</type>
         <unique>false</unique>
     </fields>
-	<fields>
-        <fullName>CF3__c</fullName>
-        <externalId>false</externalId>
-        <label>CF2</label>
-        <length>12</length>
-        <required>false</required>
-        <trackTrending>false</trackTrending>
-        <type>Text</type>
-        <unique>false</unique>
-    </fields>
     <fields>
         <fullName>CF2__c</fullName>
         <externalId>false</externalId>
@@ -82,7 +72,17 @@
         <type>Text</type>
         <unique>false</unique>
     </fields>
-	<fields>
+    <fields>
+        <fullName>CF3__c</fullName>
+        <externalId>false</externalId>
+        <label>CF2</label>
+        <length>12</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>CF4__c</fullName>
         <externalId>false</externalId>
         <label>CF2</label>
@@ -92,7 +92,7 @@
         <type>Text</type>
         <unique>false</unique>
     </fields>
-	<fields>
+    <fields>
         <fullName>CF5__c</fullName>
         <externalId>false</externalId>
         <label>CF2</label>

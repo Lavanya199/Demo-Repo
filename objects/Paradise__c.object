@@ -52,28 +52,50 @@
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
     <fields>
-        <fullName>Date__c</fullName>
+        <fullName>Chilli_chicken__c</fullName>
         <externalId>false</externalId>
-        <label>Date</label>
+        <label>Chilli chicken</label>
+        <length>250</length>
         <required>false</required>
         <trackTrending>false</trackTrending>
-        <type>Date</type>
-    </fields>
-    <fields>
-        <fullName>Email__c</fullName>
-        <externalId>false</externalId>
-        <label>Email</label>
-        <required>false</required>
-        <trackTrending>false</trackTrending>
-        <type>Email</type>
+        <type>Text</type>
         <unique>false</unique>
     </fields>
-    <label>Performance</label>
+    <fields>
+        <fullName>Type__c</fullName>
+        <externalId>false</externalId>
+        <label>Type</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Picklist</type>
+        <valueSet>
+            <restricted>true</restricted>
+            <valueSetDefinition>
+                <sorted>false</sorted>
+                <value>
+                    <fullName>Veg</fullName>
+                    <default>false</default>
+                    <label>Veg</label>
+                </value>
+                <value>
+                    <fullName>Non-veg</fullName>
+                    <default>false</default>
+                    <label>Non-veg</label>
+                </value>
+                <value>
+                    <fullName>No-Gluten</fullName>
+                    <default>false</default>
+                    <label>No-Gluten</label>
+                </value>
+            </valueSetDefinition>
+        </valueSet>
+    </fields>
+    <label>Paradise</label>
     <nameField>
-        <label>Performance Name</label>
+        <label>Paradise Name</label>
         <type>Text</type>
     </nameField>
-    <pluralLabel>Performances</pluralLabel>
+    <pluralLabel>Paradises</pluralLabel>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>

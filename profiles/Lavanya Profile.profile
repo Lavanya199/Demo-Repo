@@ -403,6 +403,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Bawarchi__c.Apollo_fish__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Bawarchi__c.Menu__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -1330,6 +1335,11 @@
         <editable>true</editable>
         <field>Performance__c.Date__c</field>
         <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>Performance__c.Email__c</field>
+        <readable>false</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>

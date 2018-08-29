@@ -424,6 +424,7 @@
         <members>Event.Type</members>
         <members>Event.WhatId</members>
         <members>Event.WhoId</members>
+        <members>First_Object__c.Field1__c</members>
         <members>Idea.Categories</members>
         <members>Idea.Status</members>
         <members>Lead.Address</members>
@@ -662,6 +663,7 @@
         <members>Event</members>
         <members>ExchangeUserMapping</members>
         <members>FeedItem</members>
+        <members>First_Object__c</members>
         <members>ForecastingCategoryMapping</members>
         <members>Idea</members>
         <members>Lead</members>
@@ -759,6 +761,7 @@
         <members>DuplicateRecordSet-Duplicate Record Set Layout</members>
         <members>EmailMessage-Email Message Layout</members>
         <members>Event-Event Layout</members>
+        <members>First_Object__c-First Object Layout</members>
         <members>Global-Global Layout</members>
         <members>Idea-Idea Layout</members>
         <members>Lead-Lead %28Marketing%29 Layout</members>

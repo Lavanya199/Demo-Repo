@@ -363,6 +363,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>C2__c.CF1__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Campaign.ActualCost</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -1367,6 +1372,12 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>B3__c-B3 Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>C1__c-C1 Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>C2__c-C2 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Campaign-Campaign Layout</layout>

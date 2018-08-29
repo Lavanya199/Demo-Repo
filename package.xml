@@ -124,6 +124,10 @@
         <members>AssetRelationship.RelatedAssetId</members>
         <members>AssetRelationship.RelationshipType</members>
         <members>AssetRelationship.ToDate</members>
+        <members>B3__c.F1__c</members>
+        <members>B3__c.F2__c</members>
+        <members>C2__c.CF1__c</members>
+        <members>C2__c.CF2__c</members>
         <members>Campaign.ActualCost</members>
         <members>Campaign.AmountAllOpportunities</members>
         <members>Campaign.AmountWonOpportunities</members>
@@ -629,6 +633,11 @@
         <members>Asset</members>
         <members>AssetRelationship</members>
         <members>AssistantProgress</members>
+        <members>B1__c</members>
+        <members>B2__c</members>
+        <members>B3__c</members>
+        <members>C1__c</members>
+        <members>C2__c</members>
         <members>Campaign</members>
         <members>CampaignMember</members>
         <members>Case</members>
@@ -725,6 +734,11 @@
         <members>Account-Account Layout</members>
         <members>Asset-Asset Layout</members>
         <members>AssetRelationship-Asset Relationship Layout</members>
+        <members>B1__c-B1 Layout</members>
+        <members>B2__c-B2 Layout</members>
+        <members>B3__c-B3 Layout</members>
+        <members>C1__c-C1 Layout</members>
+        <members>C2__c-C2 Layout</members>
         <members>Campaign-Campaign Layout</members>
         <members>CampaignMember-Campaign Member Page Layout</members>
         <members>Case-Case %28Marketing%29 Layout</members>

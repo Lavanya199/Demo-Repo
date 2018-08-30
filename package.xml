@@ -389,6 +389,8 @@
         <members>DandBCompany.WomenOwned</members>
         <members>DandBCompany.YearStarted</members>
         <members>Dolphin__c.Color__c</members>
+        <members>Dolphin__c.Date__c</members>
+        <members>Dolphin__c.Phone__c</members>
         <members>DuplicateRecordItem.DuplicateRecordSetId</members>
         <members>DuplicateRecordItem.RecordId</members>
         <members>DuplicateRecordSet.DuplicateRuleId</members>

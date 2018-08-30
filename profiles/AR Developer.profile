@@ -85,10 +85,6 @@
         <enabled>true</enabled>
     </classAccesses>
     <classAccesses>
-        <apexClass>B1</apexClass>
-        <enabled>true</enabled>
-    </classAccesses>
-    <classAccesses>
         <apexClass>AccountCreation</apexClass>
         <enabled>false</enabled>
     </classAccesses>
@@ -103,6 +99,10 @@
     <classAccesses>
         <apexClass>AugustTest</apexClass>
         <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>B1</apexClass>
+        <enabled>true</enabled>
     </classAccesses>
     <classAccesses>
         <apexClass>Chicago</apexClass>
@@ -411,6 +411,11 @@
         <readable>false</readable>
     </fieldPermissions>
     <fieldPermissions>
+        <editable>true</editable>
+        <field>B3__c.F2__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
         <editable>false</editable>
         <field>Bawarchi__c.Apollo_fish__c</field>
         <readable>false</readable>
@@ -429,6 +434,11 @@
         <editable>false</editable>
         <field>Bigboss1__c.Kaushal__c</field>
         <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>C2__c.CF1__c</field>
+        <readable>false</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
@@ -1461,6 +1471,15 @@
         <readable>false</readable>
     </fieldPermissions>
     <layoutAssignments>
+        <layout>A1__c-A1 Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>A2__c-A2 Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>A3__c-A3 Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>Account-Account Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -1473,10 +1492,29 @@
         <layout>August__c-August Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>B1__c-B1 Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>B1__c-B1 Layout</layout>
+        <recordType>B1__c.C1</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>B2__c-B2 Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>B3__c-B3 Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>Bawarchi__c-Bawarchi Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Bigboss1__c-Bigboss1 Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>C1__c-C1 Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>C2__c-C2 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Campaign-Campaign Layout</layout>
@@ -1586,6 +1624,9 @@
     <layoutAssignments>
         <layout>UserProvisioningRequest-User Provisioning Request Layout</layout>
     </layoutAssignments>
+    <layoutAssignments>
+        <layout>Whale__c-Whale Layout</layout>
+    </layoutAssignments>
     <loginHours>
         <sundayEnd>660</sundayEnd>
         <sundayStart>660</sundayStart>
@@ -1595,9 +1636,15 @@
         <endAddress>73.87.133.153</endAddress>
         <startAddress>73.87.133.153</startAddress>
     </loginIpRanges>
-    <layoutAssignments>
-        <layout>Whale__c-Whale Layout</layout>
-    </layoutAssignments>
+    <objectPermissions>
+        <allowCreate>false</allowCreate>
+        <allowDelete>false</allowDelete>
+        <allowEdit>false</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>false</modifyAllRecords>
+        <object>A1__c</object>
+        <viewAllRecords>false</viewAllRecords>
+    </objectPermissions>
     <objectPermissions>
         <allowCreate>true</allowCreate>
         <allowDelete>true</allowDelete>

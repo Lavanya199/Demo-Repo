@@ -646,6 +646,7 @@
         <members>UserProvisioningRequest.SalesforceUserId</members>
         <members>UserProvisioningRequest.State</members>
         <members>UserProvisioningRequest.UserProvAccountId</members>
+        <members>Whale__c.Red_whale__c</members>
         <name>CustomField</name>
     </types>
     <types>
@@ -714,6 +715,7 @@
         <members>TopicAssignment</members>
         <members>User</members>
         <members>UserProvisioningRequest</members>
+        <members>Whale__c</members>
         <name>CustomObject</name>
     </types>
     <types>
@@ -808,6 +810,7 @@
         <members>UserProvAccount-User Provisioning Account Layout</members>
         <members>UserProvisioningLog-User Provisioning Log Layout</members>
         <members>UserProvisioningRequest-User Provisioning Request Layout</members>
+        <members>Whale__c-Whale Layout</members>
         <name>Layout</name>
     </types>
     <types>

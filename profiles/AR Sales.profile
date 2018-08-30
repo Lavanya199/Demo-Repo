@@ -80,6 +80,14 @@
         <default>false</default>
         <visible>true</visible>
     </applicationVisibilities>
+    <classAccesses>
+        <apexClass>A1</apexClass>
+        <enabled>true</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>B1</apexClass>
+        <enabled>true</enabled>
+    </classAccesses>
     <custom>true</custom>
     <fieldPermissions>
         <editable>true</editable>
@@ -1647,6 +1655,11 @@
         <object>StreamingChannel</object>
         <viewAllRecords>false</viewAllRecords>
     </objectPermissions>
+    <recordTypeVisibilities>
+        <default>true</default>
+        <recordType>B1__c.C1</recordType>
+        <visible>true</visible>
+    </recordTypeVisibilities>
     <recordTypeVisibilities>
         <default>false</default>
         <recordType>Idea.InternalIdeasIdeaRecordType</recordType>

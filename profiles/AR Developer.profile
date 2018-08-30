@@ -80,6 +80,14 @@
         <default>false</default>
         <visible>true</visible>
     </applicationVisibilities>
+    <classAccesses>
+        <apexClass>A1</apexClass>
+        <enabled>true</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>B1</apexClass>
+        <enabled>true</enabled>
+    </classAccesses>
     <custom>true</custom>
     <description>sadf</description>
     <fieldPermissions>
@@ -1486,6 +1494,15 @@
     <layoutAssignments>
         <layout>UserProvisioningRequest-User Provisioning Request Layout</layout>
     </layoutAssignments>
+    <loginHours>
+        <sundayEnd>660</sundayEnd>
+        <sundayStart>660</sundayStart>
+    </loginHours>
+    <loginIpRanges>
+        <description>sfasdf</description>
+        <endAddress>73.87.133.153</endAddress>
+        <startAddress>73.87.133.153</startAddress>
+    </loginIpRanges>
     <objectPermissions>
         <allowCreate>false</allowCreate>
         <allowDelete>false</allowDelete>
@@ -1658,6 +1675,11 @@
         <viewAllRecords>false</viewAllRecords>
     </objectPermissions>
     <recordTypeVisibilities>
+        <default>true</default>
+        <recordType>B1__c.C1</recordType>
+        <visible>true</visible>
+    </recordTypeVisibilities>
+    <recordTypeVisibilities>
         <default>false</default>
         <recordType>Idea.InternalIdeasIdeaRecordType</recordType>
         <visible>false</visible>
@@ -1795,7 +1817,15 @@
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
+        <name>BulkMacrosAllowed</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
         <name>ChatterEditOwnPost</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
+        <name>ChatterEditOwnRecordPost</name>
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>

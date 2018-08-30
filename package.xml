@@ -142,6 +142,8 @@
         <members>August__c.Email__c</members>
         <members>Bawarchi__c.Apollo_fish__c</members>
         <members>Bawarchi__c.Menu__c</members>
+        <members>Bigboss1__c.Geetha__c</members>
+        <members>Bigboss1__c.Kaushal__c</members>
         <members>Campaign.ActualCost</members>
         <members>Campaign.AmountAllOpportunities</members>
         <members>Campaign.AmountWonOpportunities</members>
@@ -659,6 +661,7 @@
         <members>AssistantProgress</members>
         <members>August__c</members>
         <members>Bawarchi__c</members>
+        <members>Bigboss1__c</members>
         <members>Campaign</members>
         <members>CampaignMember</members>
         <members>Case</members>
@@ -762,6 +765,7 @@
         <members>AssetRelationship-Asset Relationship Layout</members>
         <members>August__c-August Layout</members>
         <members>Bawarchi__c-Bawarchi Layout</members>
+        <members>Bigboss1__c-Bigboss1 Layout</members>
         <members>Campaign-Campaign Layout</members>
         <members>CampaignMember-Campaign Member Page Layout</members>
         <members>Case-Case %28Marketing%29 Layout</members>
@@ -873,6 +877,8 @@
         <name>ListView</name>
     </types>
     <types>
+        <members>AR Developer</members>
+        <members>AR Sales</members>
         <members>Admin</members>
         <members>Analytics Cloud Integration User</members>
         <members>Analytics Cloud Security User</members>

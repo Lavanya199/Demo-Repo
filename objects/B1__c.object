@@ -42,6 +42,12 @@
     </actionOverrides>
     <allowInChatterGroups>false</allowInChatterGroups>
     <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
+    <compactLayouts>
+        <fullName>ASDG</fullName>
+        <fields>CreatedById</fields>
+        <fields>OwnerId</fields>
+        <label>ASDG</label>
+    </compactLayouts>
     <deploymentStatus>Deployed</deploymentStatus>
     <enableActivities>true</enableActivities>
     <enableBulkApi>true</enableBulkApi>
@@ -57,6 +63,12 @@
         <type>Text</type>
     </nameField>
     <pluralLabel>B1</pluralLabel>
+    <recordTypes>
+        <fullName>C1</fullName>
+        <active>true</active>
+        <description>sdfasdfsadfsa</description>
+        <label>C1</label>
+    </recordTypes>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>

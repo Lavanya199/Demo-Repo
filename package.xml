@@ -849,6 +849,8 @@
         <name>ListView</name>
     </types>
     <types>
+        <members>AR Developer</members>
+        <members>AR Sales</members>
         <members>Admin</members>
         <members>Analytics Cloud Integration User</members>
         <members>Analytics Cloud Security User</members>

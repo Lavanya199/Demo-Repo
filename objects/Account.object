@@ -78,7 +78,6 @@
     </fields>
     <fields>
         <fullName>Active__c</fullName>
-        <description>demo</description>
         <externalId>false</externalId>
         <label>Active</label>
         <required>false</required>

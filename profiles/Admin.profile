@@ -80,6 +80,14 @@
         <default>false</default>
         <visible>true</visible>
     </applicationVisibilities>
+    <classAccesses>
+        <apexClass>A1</apexClass>
+        <enabled>true</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>B1</apexClass>
+        <enabled>true</enabled>
+    </classAccesses>
     <custom>false</custom>
     <fieldPermissions>
         <editable>true</editable>
@@ -1378,6 +1386,10 @@
         <layout>B1__c-B1 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>B1__c-B1 Layout</layout>
+        <recordType>B1__c.C1</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>B2__c-B2 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -1755,6 +1767,11 @@
         <object>StreamingChannel</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
+    <recordTypeVisibilities>
+        <default>false</default>
+        <recordType>B1__c.C1</recordType>
+        <visible>false</visible>
+    </recordTypeVisibilities>
     <recordTypeVisibilities>
         <default>false</default>
         <recordType>Idea.InternalIdeasIdeaRecordType</recordType>

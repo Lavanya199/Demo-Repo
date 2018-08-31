@@ -1386,6 +1386,10 @@
         <layout>B1__c-B1 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>B1__c-B1 Layout</layout>
+        <recordType>B1__c.C1</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>B2__c-B2 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -1928,5 +1932,16 @@
         <enabled>true</enabled>
         <name>UseWebLink</name>
     </userPermissions>
-
+    <userPermissions>
+        <enabled>true</enabled>
+        <name>ViewHelpLink</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
+        <name>ViewRoles</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
+        <name>ViewSetup</name>
+    </userPermissions>
 </Profile>

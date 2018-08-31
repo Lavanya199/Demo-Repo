@@ -13,11 +13,11 @@
         <type>Default</type>
     </actionOverrides>
     <actionOverrides>
-        <actionName>Clone</actionName>
+        <actionName>CloneAsChild</actionName>
         <type>Default</type>
     </actionOverrides>
     <actionOverrides>
-        <actionName>CloneAsChild</actionName>
+        <actionName>Clone</actionName>
         <type>Default</type>
     </actionOverrides>
     <actionOverrides>

@@ -12,6 +12,8 @@
         <members>ChicagoTest</members>
         <members>NewYork</members>
         <members>NewYorkTest</members>
+        <members>Paradise</members>
+        <members>ParadiseTest</members>
         <members>Performance</members>
         <members>PerformanceTest</members>
         <name>ApexClass</name>

@@ -1,11 +1,11 @@
 @isTest
-public class AccountCreationTest
+public class ParadiseTest
 {
   static testMethod void testInsertAccount() //check the difference
   {
   
-  //new objects - Added paradise
-  AccountCreation ca = new AccountCreation();
+  //new objects
+  Paradise ca = new Paradise();
   ca.createAccount('TestAcc1');
   
   }

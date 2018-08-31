@@ -1,9 +1,9 @@
-public Class AccountCreation
+public Class Paradise
 {
 public Account createAccount(String name) //Method to Create Account 
 {
 
-//Added paradise
+//new objects
 Account acc = new Account(); 
 acc.Name = name;
 system.debug('Test');

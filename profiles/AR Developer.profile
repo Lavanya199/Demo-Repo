@@ -902,6 +902,16 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>L1__c.LA1__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>L1__c.LA2__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Lead.Address</field>
         <readable>true</readable>
     </fieldPermissions>

@@ -427,6 +427,8 @@
         <members>Event.WhoId</members>
         <members>Idea.Categories</members>
         <members>Idea.Status</members>
+        <members>L1__c.LA1__c</members>
+        <members>L1__c.LA2__c</members>
         <members>Lead.Address</members>
         <members>Lead.AnnualRevenue</members>
         <members>Lead.CampaignId</members>
@@ -670,6 +672,7 @@
         <members>FeedItem</members>
         <members>ForecastingCategoryMapping</members>
         <members>Idea</members>
+        <members>L1__c</members>
         <members>Lead</members>
         <members>LeadCleanInfo</members>
         <members>Macro</members>

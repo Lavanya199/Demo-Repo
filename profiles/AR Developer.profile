@@ -1490,6 +1490,9 @@
         <layout>M2__c-M2 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>MK1__c-MK1 Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>Macro-Macro Layout</layout>
     </layoutAssignments>
     <layoutAssignments>

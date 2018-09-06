@@ -604,6 +604,7 @@
         <members>ScorecardMetric.ScorecardId</members>
         <members>September__c.Field_A__c</members>
         <members>September__c.Field_B__c</members>
+        <members>September__c.Field_C__c</members>
         <members>SocialPersona.ExternalId</members>
         <members>SocialPersona.ExternalPictureURL</members>
         <members>SocialPersona.Name</members>

@@ -1416,6 +1416,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>September__c.Field_B__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>SocialPersona.SourceApp</field>
         <readable>true</readable>
     </fieldPermissions>

@@ -146,6 +146,8 @@
         <members>Bawarchi__c.Menu__c</members>
         <members>Bigboss1__c.Geetha__c</members>
         <members>Bigboss1__c.Kaushal__c</members>
+        <members>Blackcobra__c.Color__c</members>
+        <members>Blackcobra__c.Hair__c</members>
         <members>Campaign.ActualCost</members>
         <members>Campaign.AmountAllOpportunities</members>
         <members>Campaign.AmountWonOpportunities</members>
@@ -667,6 +669,7 @@
         <members>August__c</members>
         <members>Bawarchi__c</members>
         <members>Bigboss1__c</members>
+        <members>Blackcobra__c</members>
         <members>Campaign</members>
         <members>CampaignMember</members>
         <members>Case</members>
@@ -772,6 +775,7 @@
         <members>August__c-August Layout</members>
         <members>Bawarchi__c-Bawarchi Layout</members>
         <members>Bigboss1__c-Bigboss1 Layout</members>
+        <members>Blackcobra__c-Blackcobra Layout</members>
         <members>Campaign-Campaign Layout</members>
         <members>CampaignMember-Campaign Member Page Layout</members>
         <members>Case-Case %28Marketing%29 Layout</members>
@@ -954,6 +958,7 @@
         <name>QuickAction</name>
     </types>
     <types>
+        <members>Blackcobra__c.BC_Color</members>
         <members>Idea.InternalIdeasIdeaRecordType</members>
         <name>RecordType</name>
     </types>
@@ -1092,5 +1097,13 @@
         <members>Case.UpsellCrosssellOpportunity</members>
         <members>Opportunity.DeliveryStatus</members>
         <name>WebLink</name>
+    </types>
+    <types>
+        <members>Blackcobra__c.Color_field_update_action</members>
+        <name>WorkflowFieldUpdate</name>
+    </types>
+    <types>
+        <members>Blackcobra__c.Update Color</members>
+        <name>WorkflowRule</name>
     </types>
 </Package>

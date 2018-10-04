@@ -51,12 +51,31 @@
     <enableSearch>false</enableSearch>
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
-    <label>Object2</label>
+    <fields>
+        <fullName>After_baseline__c</fullName>
+        <externalId>false</externalId>
+        <label>After baseline</label>
+        <length>250</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Email__c</fullName>
+        <externalId>false</externalId>
+        <label>Email</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Email</type>
+        <unique>false</unique>
+    </fields>
+    <label>Oct4</label>
     <nameField>
-        <label>Object2 Name</label>
+        <label>Oct4 Name</label>
         <type>Text</type>
     </nameField>
-    <pluralLabel>Object2s</pluralLabel>
+    <pluralLabel>Oct4s</pluralLabel>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>

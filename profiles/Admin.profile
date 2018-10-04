@@ -1632,6 +1632,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Oct4__c.After_baseline__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Oct4__c.Email__c</field>
         <readable>true</readable>
     </fieldPermissions>

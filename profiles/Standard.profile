@@ -1561,6 +1561,11 @@
         <readable>false</readable>
     </fieldPermissions>
     <fieldPermissions>
+        <editable>true</editable>
+        <field>Livi__c.Color__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
         <editable>false</editable>
         <field>May__c.Email_id__c</field>
         <readable>false</readable>
@@ -2419,6 +2424,9 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>Lennar__c-Lennar Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Livi__c-Livi Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Macro-Macro Layout</layout>

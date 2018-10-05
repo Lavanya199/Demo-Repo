@@ -573,6 +573,7 @@
         <members>Lead.Website</members>
         <members>LeadCleanInfo.Industry</members>
         <members>Lennar__c.Test1__c</members>
+        <members>Livi__c.Color__c</members>
         <members>Macro.Description</members>
         <members>Macro.IsAlohaSupported</members>
         <members>Macro.IsLightningSupported</members>
@@ -894,6 +895,7 @@
         <members>Lead</members>
         <members>LeadCleanInfo</members>
         <members>Lennar__c</members>
+        <members>Livi__c</members>
         <members>Macro</members>
         <members>MacroAction</members>
         <members>MacroInstruction</members>
@@ -1158,6 +1160,7 @@
         <members>Lead-Lead %28Support%29 Layout</members>
         <members>Lead-Lead Layout</members>
         <members>Lennar__c-Lennar Layout</members>
+        <members>Livi__c-Livi Layout</members>
         <members>Macro-Macro Layout</members>
         <members>May__c-May Layout</members>
         <members>Mindbody__c-Mindbody Layout</members>

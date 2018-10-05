@@ -737,6 +737,7 @@
         <members>RegionsBank__c.TFS_Demo__c</members>
         <members>RegionsBank__c.Test2__c</members>
         <members>ResMed__c.Test1__c</members>
+        <members>Rgu__c.Color__c</members>
         <members>RiverBed__c.RB_Text1__c</members>
         <members>Scorecard.Description</members>
         <members>Scorecard.Name</members>
@@ -925,6 +926,7 @@
         <members>RecordAction</members>
         <members>RegionsBank__c</members>
         <members>ResMed__c</members>
+        <members>Rgu__c</members>
         <members>RiverBed__c</members>
         <members>Scorecard</members>
         <members>ScorecardAssociation</members>
@@ -1184,6 +1186,7 @@
         <members>QuickText-Quick Text Layout</members>
         <members>RegionsBank__c-RegionsBank Layout</members>
         <members>ResMed__c-ResMed Layout</members>
+        <members>Rgu__c-Rgu Layout</members>
         <members>RiverBed__c-RiverBed Layout</members>
         <members>Scorecard-Scorecard Layout</members>
         <members>ScorecardAssociation-Scorecard Association Layout</members>

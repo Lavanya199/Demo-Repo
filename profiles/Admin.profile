@@ -2092,6 +2092,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Rgu__c.Color__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>RiverBed__c.RB_Text1__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -2504,6 +2509,9 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>ResMed__c-ResMed Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Rgu__c-Rgu Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>RiverBed__c-RiverBed Layout</layout>
@@ -3343,6 +3351,15 @@
         <allowRead>true</allowRead>
         <modifyAllRecords>true</modifyAllRecords>
         <object>ResMed__c</object>
+        <viewAllRecords>true</viewAllRecords>
+    </objectPermissions>
+    <objectPermissions>
+        <allowCreate>true</allowCreate>
+        <allowDelete>true</allowDelete>
+        <allowEdit>true</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>true</modifyAllRecords>
+        <object>Rgu__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <objectPermissions>

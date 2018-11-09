@@ -2,10 +2,15 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <version>43.0</version>
     <types>
+        <members>AccPlanRelatedObjectsListCtrl</members>
         <members>AccountCreation</members>
         <members>AccountCreationTest</members>
+        <members>CreateAccount</members>
         <members>CreateAccountClass</members>
         <members>CreateAccountClassTest</members>
+        <members>CreateAccountTest</members>
+        <members>Flagstar</members>
+        <members>FlagstarTest</members>
         <members>Security</members>
         <members>SecurityTest</members>
         <name>ApexClass</name>

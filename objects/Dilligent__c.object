@@ -53,6 +53,26 @@
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
     <fields>
+        <fullName>Aug_22__c</fullName>
+        <externalId>false</externalId>
+        <label>Aug 22</label>
+        <length>250</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Aug_23__c</fullName>
+        <externalId>false</externalId>
+        <label>Aug 23</label>
+        <length>250</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>Voya_new_field__c</fullName>
         <externalId>false</externalId>
         <label>Voya new field</label>

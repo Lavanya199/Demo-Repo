@@ -54,9 +54,10 @@
     <enableStreamingApi>true</enableStreamingApi>
     <fields>
         <fullName>Astellas_Field_A__c</fullName>
+        <description>Demo purpose</description>
         <externalId>false</externalId>
         <label>Astellas Field A</label>
-        <length>100</length>
+        <length>80</length>
         <required>false</required>
         <trackTrending>false</trackTrending>
         <type>Text</type>
@@ -64,6 +65,7 @@
     </fields>
     <fields>
         <fullName>Astellas_Field_B__c</fullName>
+        <description>Demo purpose</description>
         <externalId>false</externalId>
         <label>Astellas Field B</label>
         <required>false</required>

@@ -179,18 +179,18 @@
     <tabs>standard-Case</tabs>
     <tabs>standard-Opportunity</tabs>
     <tabs>standard-Lead</tabs>
-    <tabs>CRM_Request__c</tabs>
-    <tabs>UAT1__c</tabs>
     <tabs>Test_Demo__c</tabs>
+    <tabs>June_14_demo__c</tabs>
+    <tabs>CSI__c</tabs>
     <workspaceConfig>
         <mappings>
-            <tab>CRM_Request__c</tab>
+            <tab>CSI__c</tab>
+        </mappings>
+        <mappings>
+            <tab>June_14_demo__c</tab>
         </mappings>
         <mappings>
             <tab>Test_Demo__c</tab>
-        </mappings>
-        <mappings>
-            <tab>UAT1__c</tab>
         </mappings>
         <mappings>
             <tab>standard-Account</tab>

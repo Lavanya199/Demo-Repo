@@ -64,7 +64,7 @@
     </fields>
     <label>Order Management</label>
     <nameField>
-        <label>Order Management Name</label>
+        <label>Order Management</label>
         <type>Text</type>
     </nameField>
     <pluralLabel>Order Managements</pluralLabel>

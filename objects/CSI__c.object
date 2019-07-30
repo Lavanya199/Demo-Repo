@@ -86,11 +86,6 @@
                     <default>false</default>
                     <label>Canada</label>
                 </value>
-                <value>
-                    <fullName>China</fullName>
-                    <default>false</default>
-                    <label>China</label>
-                </value>
             </valueSetDefinition>
         </valueSet>
     </fields>
@@ -156,10 +151,6 @@
             <valueSettings>
                 <controllingFieldValue>Canada</controllingFieldValue>
                 <valueName>Toronto</valueName>
-            </valueSettings>
-            <valueSettings>
-                <controllingFieldValue>China</controllingFieldValue>
-                <valueName>Hongkong</valueName>
             </valueSettings>
         </valueSet>
     </fields>

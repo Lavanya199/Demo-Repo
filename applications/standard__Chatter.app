@@ -9,7 +9,7 @@
     <tabs>standard-OtherUserProfile</tabs>
     <tabs>standard-CollaborationGroup</tabs>
     <tabs>standard-File</tabs>
-    <tabs>CRM_Request__c</tabs>
-    <tabs>UAT1__c</tabs>
     <tabs>Test_Demo__c</tabs>
+    <tabs>June_14_demo__c</tabs>
+    <tabs>CSI__c</tabs>
 </CustomApplication>

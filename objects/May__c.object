@@ -82,6 +82,16 @@
                     <default>false</default>
                     <label>Close</label>
                 </value>
+                <value>
+                    <fullName>In progress</fullName>
+                    <default>false</default>
+                    <label>In progress</label>
+                </value>
+                <value>
+                    <fullName>Waiting for response</fullName>
+                    <default>false</default>
+                    <label>Waiting for response</label>
+                </value>
             </valueSetDefinition>
         </valueSet>
     </fields>

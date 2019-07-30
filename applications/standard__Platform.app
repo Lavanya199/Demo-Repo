@@ -8,7 +8,7 @@
     <tabs>standard-Contact</tabs>
     <tabs>standard-report</tabs>
     <tabs>standard-Dashboard</tabs>
-    <tabs>CRM_Request__c</tabs>
-    <tabs>UAT1__c</tabs>
     <tabs>Test_Demo__c</tabs>
+    <tabs>June_14_demo__c</tabs>
+    <tabs>CSI__c</tabs>
 </CustomApplication>

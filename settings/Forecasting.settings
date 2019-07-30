@@ -228,27 +228,27 @@
             <label>Last Modified Date</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N4100000ZMZPl</field>
+            <field>00N4100000ZMZPD</field>
             <label>AutorabitExtId__c</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N4100000QMqMi</field>
+            <field>00N4100000GLEi1</field>
             <label>Current Generator(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N4100000QMqMj</field>
+            <field>00N4100000GLEi2</field>
             <label>Delivery/Installation Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N4100000QMqMk</field>
+            <field>00N4100000GLEi3</field>
             <label>Main Competitor(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N4100000QMqMl</field>
+            <field>00N4100000GLEi4</field>
             <label>Order Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N4100000QMqMm</field>
+            <field>00N4100000GLEi5</field>
             <label>Tracking Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
@@ -285,12 +285,12 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
-            <field>00N4100000ZMZPl</field>
-            <field>00N4100000QMqMi</field>
-            <field>00N4100000QMqMj</field>
-            <field>00N4100000QMqMk</field>
-            <field>00N4100000QMqMl</field>
-            <field>00N4100000QMqMm</field>
+            <field>00N4100000ZMZPD</field>
+            <field>00N4100000GLEi1</field>
+            <field>00N4100000GLEi2</field>
+            <field>00N4100000GLEi3</field>
+            <field>00N4100000GLEi4</field>
+            <field>00N4100000GLEi5</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
             <showQuotas>false</showQuotas>
@@ -447,27 +447,27 @@
             <label>Last Modified Date</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N4100000ZMZPl</field>
+            <field>00N4100000ZMZPD</field>
             <label>AutorabitExtId__c</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N4100000QMqMi</field>
+            <field>00N4100000GLEi1</field>
             <label>Current Generator(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N4100000QMqMj</field>
+            <field>00N4100000GLEi2</field>
             <label>Delivery/Installation Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N4100000QMqMk</field>
+            <field>00N4100000GLEi3</field>
             <label>Main Competitor(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N4100000QMqMl</field>
+            <field>00N4100000GLEi4</field>
             <label>Order Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N4100000QMqMm</field>
+            <field>00N4100000GLEi5</field>
             <label>Tracking Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
@@ -504,12 +504,12 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
-            <field>00N4100000ZMZPl</field>
-            <field>00N4100000QMqMi</field>
-            <field>00N4100000QMqMj</field>
-            <field>00N4100000QMqMk</field>
-            <field>00N4100000QMqMl</field>
-            <field>00N4100000QMqMm</field>
+            <field>00N4100000ZMZPD</field>
+            <field>00N4100000GLEi1</field>
+            <field>00N4100000GLEi2</field>
+            <field>00N4100000GLEi3</field>
+            <field>00N4100000GLEi4</field>
+            <field>00N4100000GLEi5</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
             <showQuotas>false</showQuotas>
@@ -670,27 +670,27 @@
             <label>Last Modified Date</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N4100000ZMZPl</field>
+            <field>00N4100000ZMZPD</field>
             <label>AutorabitExtId__c</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N4100000QMqMi</field>
+            <field>00N4100000GLEi1</field>
             <label>Current Generator(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N4100000QMqMj</field>
+            <field>00N4100000GLEi2</field>
             <label>Delivery/Installation Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N4100000QMqMk</field>
+            <field>00N4100000GLEi3</field>
             <label>Main Competitor(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N4100000QMqMl</field>
+            <field>00N4100000GLEi4</field>
             <label>Order Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N4100000QMqMm</field>
+            <field>00N4100000GLEi5</field>
             <label>Tracking Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
@@ -728,12 +728,12 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
-            <field>00N4100000ZMZPl</field>
-            <field>00N4100000QMqMi</field>
-            <field>00N4100000QMqMj</field>
-            <field>00N4100000QMqMk</field>
-            <field>00N4100000QMqMl</field>
-            <field>00N4100000QMqMm</field>
+            <field>00N4100000ZMZPD</field>
+            <field>00N4100000GLEi1</field>
+            <field>00N4100000GLEi2</field>
+            <field>00N4100000GLEi3</field>
+            <field>00N4100000GLEi4</field>
+            <field>00N4100000GLEi5</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
             <showQuotas>false</showQuotas>
@@ -890,27 +890,27 @@
             <label>Last Modified Date</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N4100000ZMZPl</field>
+            <field>00N4100000ZMZPD</field>
             <label>AutorabitExtId__c</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N4100000QMqMi</field>
+            <field>00N4100000GLEi1</field>
             <label>Current Generator(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N4100000QMqMj</field>
+            <field>00N4100000GLEi2</field>
             <label>Delivery/Installation Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N4100000QMqMk</field>
+            <field>00N4100000GLEi3</field>
             <label>Main Competitor(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N4100000QMqMl</field>
+            <field>00N4100000GLEi4</field>
             <label>Order Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N4100000QMqMm</field>
+            <field>00N4100000GLEi5</field>
             <label>Tracking Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
@@ -947,12 +947,12 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
-            <field>00N4100000ZMZPl</field>
-            <field>00N4100000QMqMi</field>
-            <field>00N4100000QMqMj</field>
-            <field>00N4100000QMqMk</field>
-            <field>00N4100000QMqMl</field>
-            <field>00N4100000QMqMm</field>
+            <field>00N4100000ZMZPD</field>
+            <field>00N4100000GLEi1</field>
+            <field>00N4100000GLEi2</field>
+            <field>00N4100000GLEi3</field>
+            <field>00N4100000GLEi4</field>
+            <field>00N4100000GLEi5</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
             <showQuotas>false</showQuotas>
@@ -1113,27 +1113,27 @@
             <label>Last Modified Date</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N4100000ZMZPl</field>
+            <field>00N4100000ZMZPD</field>
             <label>AutorabitExtId__c</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N4100000QMqMi</field>
+            <field>00N4100000GLEi1</field>
             <label>Current Generator(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N4100000QMqMj</field>
+            <field>00N4100000GLEi2</field>
             <label>Delivery/Installation Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N4100000QMqMk</field>
+            <field>00N4100000GLEi3</field>
             <label>Main Competitor(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N4100000QMqMl</field>
+            <field>00N4100000GLEi4</field>
             <label>Order Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N4100000QMqMm</field>
+            <field>00N4100000GLEi5</field>
             <label>Tracking Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
@@ -1171,12 +1171,12 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
-            <field>00N4100000ZMZPl</field>
-            <field>00N4100000QMqMi</field>
-            <field>00N4100000QMqMj</field>
-            <field>00N4100000QMqMk</field>
-            <field>00N4100000QMqMl</field>
-            <field>00N4100000QMqMm</field>
+            <field>00N4100000ZMZPD</field>
+            <field>00N4100000GLEi1</field>
+            <field>00N4100000GLEi2</field>
+            <field>00N4100000GLEi3</field>
+            <field>00N4100000GLEi4</field>
+            <field>00N4100000GLEi5</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
             <showQuotas>false</showQuotas>
@@ -1333,27 +1333,27 @@
             <label>Last Modified Date</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N4100000ZMZPl</field>
+            <field>00N4100000ZMZPD</field>
             <label>AutorabitExtId__c</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N4100000QMqMi</field>
+            <field>00N4100000GLEi1</field>
             <label>Current Generator(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N4100000QMqMj</field>
+            <field>00N4100000GLEi2</field>
             <label>Delivery/Installation Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N4100000QMqMk</field>
+            <field>00N4100000GLEi3</field>
             <label>Main Competitor(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N4100000QMqMl</field>
+            <field>00N4100000GLEi4</field>
             <label>Order Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N4100000QMqMm</field>
+            <field>00N4100000GLEi5</field>
             <label>Tracking Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
@@ -1390,12 +1390,12 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
-            <field>00N4100000ZMZPl</field>
-            <field>00N4100000QMqMi</field>
-            <field>00N4100000QMqMj</field>
-            <field>00N4100000QMqMk</field>
-            <field>00N4100000QMqMl</field>
-            <field>00N4100000QMqMm</field>
+            <field>00N4100000ZMZPD</field>
+            <field>00N4100000GLEi1</field>
+            <field>00N4100000GLEi2</field>
+            <field>00N4100000GLEi3</field>
+            <field>00N4100000GLEi4</field>
+            <field>00N4100000GLEi5</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
             <showQuotas>false</showQuotas>
@@ -1552,27 +1552,27 @@
             <label>Last Modified Date</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N4100000ZMZPl</field>
+            <field>00N4100000ZMZPD</field>
             <label>AutorabitExtId__c</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N4100000QMqMi</field>
+            <field>00N4100000GLEi1</field>
             <label>Current Generator(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N4100000QMqMj</field>
+            <field>00N4100000GLEi2</field>
             <label>Delivery/Installation Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N4100000QMqMk</field>
+            <field>00N4100000GLEi3</field>
             <label>Main Competitor(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N4100000QMqMl</field>
+            <field>00N4100000GLEi4</field>
             <label>Order Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N4100000QMqMm</field>
+            <field>00N4100000GLEi5</field>
             <label>Tracking Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
@@ -1609,12 +1609,12 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
-            <field>00N4100000ZMZPl</field>
-            <field>00N4100000QMqMi</field>
-            <field>00N4100000QMqMj</field>
-            <field>00N4100000QMqMk</field>
-            <field>00N4100000QMqMl</field>
-            <field>00N4100000QMqMm</field>
+            <field>00N4100000ZMZPD</field>
+            <field>00N4100000GLEi1</field>
+            <field>00N4100000GLEi2</field>
+            <field>00N4100000GLEi3</field>
+            <field>00N4100000GLEi4</field>
+            <field>00N4100000GLEi5</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
             <showQuotas>false</showQuotas>
@@ -1771,27 +1771,27 @@
             <label>Last Modified Date</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N4100000ZMZPl</field>
+            <field>00N4100000ZMZPD</field>
             <label>AutorabitExtId__c</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N4100000QMqMi</field>
+            <field>00N4100000GLEi1</field>
             <label>Current Generator(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N4100000QMqMj</field>
+            <field>00N4100000GLEi2</field>
             <label>Delivery/Installation Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N4100000QMqMk</field>
+            <field>00N4100000GLEi3</field>
             <label>Main Competitor(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N4100000QMqMl</field>
+            <field>00N4100000GLEi4</field>
             <label>Order Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N4100000QMqMm</field>
+            <field>00N4100000GLEi5</field>
             <label>Tracking Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
@@ -1828,12 +1828,12 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
-            <field>00N4100000ZMZPl</field>
-            <field>00N4100000QMqMi</field>
-            <field>00N4100000QMqMj</field>
-            <field>00N4100000QMqMk</field>
-            <field>00N4100000QMqMl</field>
-            <field>00N4100000QMqMm</field>
+            <field>00N4100000ZMZPD</field>
+            <field>00N4100000GLEi1</field>
+            <field>00N4100000GLEi2</field>
+            <field>00N4100000GLEi3</field>
+            <field>00N4100000GLEi4</field>
+            <field>00N4100000GLEi5</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
             <showQuotas>false</showQuotas>
@@ -1994,27 +1994,27 @@
             <label>Last Modified Date</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N4100000ZMZPl</field>
+            <field>00N4100000ZMZPD</field>
             <label>AutorabitExtId__c</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N4100000QMqMi</field>
+            <field>00N4100000GLEi1</field>
             <label>Current Generator(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N4100000QMqMj</field>
+            <field>00N4100000GLEi2</field>
             <label>Delivery/Installation Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N4100000QMqMk</field>
+            <field>00N4100000GLEi3</field>
             <label>Main Competitor(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N4100000QMqMl</field>
+            <field>00N4100000GLEi4</field>
             <label>Order Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N4100000QMqMm</field>
+            <field>00N4100000GLEi5</field>
             <label>Tracking Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
@@ -2052,12 +2052,12 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
-            <field>00N4100000ZMZPl</field>
-            <field>00N4100000QMqMi</field>
-            <field>00N4100000QMqMj</field>
-            <field>00N4100000QMqMk</field>
-            <field>00N4100000QMqMl</field>
-            <field>00N4100000QMqMm</field>
+            <field>00N4100000ZMZPD</field>
+            <field>00N4100000GLEi1</field>
+            <field>00N4100000GLEi2</field>
+            <field>00N4100000GLEi3</field>
+            <field>00N4100000GLEi4</field>
+            <field>00N4100000GLEi5</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
             <showQuotas>false</showQuotas>
@@ -2214,27 +2214,27 @@
             <label>Last Modified Date</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N4100000ZMZPl</field>
+            <field>00N4100000ZMZPD</field>
             <label>AutorabitExtId__c</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N4100000QMqMi</field>
+            <field>00N4100000GLEi1</field>
             <label>Current Generator(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N4100000QMqMj</field>
+            <field>00N4100000GLEi2</field>
             <label>Delivery/Installation Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N4100000QMqMk</field>
+            <field>00N4100000GLEi3</field>
             <label>Main Competitor(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N4100000QMqMl</field>
+            <field>00N4100000GLEi4</field>
             <label>Order Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N4100000QMqMm</field>
+            <field>00N4100000GLEi5</field>
             <label>Tracking Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
@@ -2271,12 +2271,12 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
-            <field>00N4100000ZMZPl</field>
-            <field>00N4100000QMqMi</field>
-            <field>00N4100000QMqMj</field>
-            <field>00N4100000QMqMk</field>
-            <field>00N4100000QMqMl</field>
-            <field>00N4100000QMqMm</field>
+            <field>00N4100000ZMZPD</field>
+            <field>00N4100000GLEi1</field>
+            <field>00N4100000GLEi2</field>
+            <field>00N4100000GLEi3</field>
+            <field>00N4100000GLEi4</field>
+            <field>00N4100000GLEi5</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
             <showQuotas>false</showQuotas>
@@ -2433,27 +2433,27 @@
             <label>Last Modified Date</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N4100000ZMZPl</field>
+            <field>00N4100000ZMZPD</field>
             <label>AutorabitExtId__c</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N4100000QMqMi</field>
+            <field>00N4100000GLEi1</field>
             <label>Current Generator(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N4100000QMqMj</field>
+            <field>00N4100000GLEi2</field>
             <label>Delivery/Installation Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N4100000QMqMk</field>
+            <field>00N4100000GLEi3</field>
             <label>Main Competitor(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N4100000QMqMl</field>
+            <field>00N4100000GLEi4</field>
             <label>Order Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N4100000QMqMm</field>
+            <field>00N4100000GLEi5</field>
             <label>Tracking Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
@@ -2490,12 +2490,12 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
-            <field>00N4100000ZMZPl</field>
-            <field>00N4100000QMqMi</field>
-            <field>00N4100000QMqMj</field>
-            <field>00N4100000QMqMk</field>
-            <field>00N4100000QMqMl</field>
-            <field>00N4100000QMqMm</field>
+            <field>00N4100000ZMZPD</field>
+            <field>00N4100000GLEi1</field>
+            <field>00N4100000GLEi2</field>
+            <field>00N4100000GLEi3</field>
+            <field>00N4100000GLEi4</field>
+            <field>00N4100000GLEi5</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
             <showQuotas>false</showQuotas>
@@ -2652,27 +2652,27 @@
             <label>Last Modified Date</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N4100000ZMZPl</field>
+            <field>00N4100000ZMZPD</field>
             <label>AutorabitExtId__c</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N4100000QMqMi</field>
+            <field>00N4100000GLEi1</field>
             <label>Current Generator(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N4100000QMqMj</field>
+            <field>00N4100000GLEi2</field>
             <label>Delivery/Installation Status</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N4100000QMqMk</field>
+            <field>00N4100000GLEi3</field>
             <label>Main Competitor(s)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N4100000QMqMl</field>
+            <field>00N4100000GLEi4</field>
             <label>Order Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
-            <field>00N4100000QMqMm</field>
+            <field>00N4100000GLEi5</field>
             <label>Tracking Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
@@ -2709,12 +2709,12 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
-            <field>00N4100000ZMZPl</field>
-            <field>00N4100000QMqMi</field>
-            <field>00N4100000QMqMj</field>
-            <field>00N4100000QMqMk</field>
-            <field>00N4100000QMqMl</field>
-            <field>00N4100000QMqMm</field>
+            <field>00N4100000ZMZPD</field>
+            <field>00N4100000GLEi1</field>
+            <field>00N4100000GLEi2</field>
+            <field>00N4100000GLEi3</field>
+            <field>00N4100000GLEi4</field>
+            <field>00N4100000GLEi5</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
             <showQuotas>false</showQuotas>

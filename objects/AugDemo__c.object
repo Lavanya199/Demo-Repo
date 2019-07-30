@@ -53,44 +53,6 @@
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
     <fields>
-        <fullName>Email__c</fullName>
-        <externalId>false</externalId>
-        <label>Email</label>
-        <required>false</required>
-        <trackTrending>false</trackTrending>
-        <type>Email</type>
-        <unique>false</unique>
-    </fields>
-    <fields>
-        <fullName>Status__c</fullName>
-        <externalId>false</externalId>
-        <label>Status</label>
-        <required>false</required>
-        <trackTrending>false</trackTrending>
-        <type>Picklist</type>
-        <valueSet>
-            <restricted>true</restricted>
-            <valueSetDefinition>
-                <sorted>false</sorted>
-                <value>
-                    <fullName>Open</fullName>
-                    <default>false</default>
-                    <label>Open</label>
-                </value>
-                <value>
-                    <fullName>Close</fullName>
-                    <default>false</default>
-                    <label>Close</label>
-                </value>
-                <value>
-                    <fullName>Inprogress</fullName>
-                    <default>false</default>
-                    <label>Inprogress</label>
-                </value>
-            </valueSetDefinition>
-        </valueSet>
-    </fields>
-    <fields>
         <fullName>Test1__c</fullName>
         <externalId>false</externalId>
         <label>Test1</label>
@@ -110,21 +72,6 @@
         <fullName>Aug_Record_type</fullName>
         <active>true</active>
         <label>Aug Record type</label>
-        <picklistValues>
-            <picklist>Status__c</picklist>
-            <values>
-                <fullName>Close</fullName>
-                <default>false</default>
-            </values>
-            <values>
-                <fullName>Inprogress</fullName>
-                <default>false</default>
-            </values>
-            <values>
-                <fullName>Open</fullName>
-                <default>false</default>
-            </values>
-        </picklistValues>
     </recordTypes>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>

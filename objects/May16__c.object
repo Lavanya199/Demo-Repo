@@ -2,7 +2,7 @@
 <CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
     <fields>
         <fullName>Color__c</fullName>
-        <description>chgchhjvhjdfedgregregh</description>
+        <description>chgchhjvhjdfedgregreghdcdv</description>
         <externalId>false</externalId>
         <label>Color</label>
         <length>250</length>
